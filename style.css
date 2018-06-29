@@ -12,3 +12,5 @@
  Text Domain:  baskerville-2-wpcom-child
 */
 
+/* Fixes width of Gutenberg Image Block */
+div > figure > video { width: 100% }
